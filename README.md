@@ -1,6 +1,6 @@
 # ComposeCard
 
-<br/><br/>
+<br/>
 
 ### 🤔 - Proposta
 
