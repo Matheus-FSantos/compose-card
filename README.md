@@ -30,6 +30,7 @@ Como mostra as imagens abaixo
 
 
 ### 📜- Informações
+> Nome: ComposeCard<br/>
 > Author: Matheus-FSantos.<br/>
 > Data: 14 de junho de 2024.<br/>
 > Tech.: Kotlin (Jetpack Compose).
